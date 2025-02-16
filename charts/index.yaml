@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mi-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-16T13:25:01.3308571-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 9a8c73e0ad9a644398e99c3f3826e96e130838b0b83e8228afa139031e99cdec
+    name: mi-chart
+    type: application
+    urls:
+    - https://S-Sanchez04.github.io/helm-repo/charts/mi-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-16T13:25:01.3298212-05:00"
