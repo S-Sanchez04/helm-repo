@@ -3,7 +3,17 @@ entries:
   helm-charts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-16T14:51:43.906171936-05:00"
+    created: "2025-02-16T14:59:55.785294235-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 8f9de2fba0cd3f1b0858921e51ead1d3f5a9721d1dc0f2401860b885d8dcf03c
+    name: helm-charts
+    type: application
+    urls:
+    - helm-charts-1.0.17.tgz
+    version: 1.0.17
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-16T14:59:55.784776742-05:00"
     description: A Helm chart for Kubernetes
     digest: d675011082798ff683d9c784703f7ced532daadf62aa2e8485011caed5f952f2
     name: helm-charts
@@ -14,7 +24,7 @@ entries:
   mi-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-16T14:51:43.906493641-05:00"
+    created: "2025-02-16T14:59:55.785812528-05:00"
     description: A Helm chart for Kubernetes
     digest: 9a8c73e0ad9a644398e99c3f3826e96e130838b0b83e8228afa139031e99cdec
     name: mi-chart
@@ -22,4 +32,4 @@ entries:
     urls:
     - mi-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-16T14:51:43.905712085-05:00"
+generated: "2025-02-16T14:59:55.783753058-05:00"
